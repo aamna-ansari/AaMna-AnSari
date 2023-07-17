@@ -15,7 +15,7 @@
 - 🥅 **2023 Goals:**
      -  Complete MERN Stack
 - 👨‍🏫 Inspired by **[Sikander Nawaz](https://github.com/JadoGarBhai)** 
-- 📫 How to reach me **[Email](aamnansari29@gmail.com)** and **[WhatsApp](https://wa.me/+923055504698)**
+- 📫 How to reach me **[Email](aamnansari29@gmail.com)**
 
 <h2><i>🛠️ Languages and Tools</i></h2>
 
