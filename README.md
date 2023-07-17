@@ -11,11 +11,11 @@
   - Front-end development using **HTML, Javascript, CSS, Bootstrap.**
 - 🎓 I graduated from **Government College University Faisalabad.**
 - 👯 I want to collaborate **with other content creators and developers.**
-
 - 💻 I love writing code and learning anything about it.
 - 🥅 **2023 Goals:**
-     -  Complete MERN Stack 
-- 📫 How to reach me **[Email](aamnansari29@gmail.com)**
+     -  Complete MERN Stack
+- 👨‍🏫 Inspired by **[Sikander Nawaz](https://github.com/JadoGarBhai)** 
+- 📫 How to reach me **[Email](aamnansari29@gmail.com)** and **[WhatsApp](https://wa.me/+923055504698)**
 
 <h2><i>🛠️ Languages and Tools</i></h2>
 
