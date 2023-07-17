@@ -14,7 +14,6 @@
 - 💻 I love writing code and learning anything about it.
 - 🥅 **2023 Goals:**
      -  Complete MERN Stack
-- 👨‍🏫 Inspired by **[Sikander Nawaz](https://github.com/JadoGarBhai)** 
 - 📫 How to reach me **[Email](aamnansari29@gmail.com)**
 
 <h2><i>🛠️ Languages and Tools</i></h2>
