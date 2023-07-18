@@ -2,7 +2,7 @@
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&multiline=true&width=710&height=35&lines=Welcome+to+my+GitHub+Profile+👩‍💻;"alt="Welcome to my GitHub Profile" />
 </p>
-<h3 align="center">I'm Student and Front-End Developer :sunglasses:</h3>
+<h3 align="center">I'm Student and Front-End Developer :v:</h3>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
