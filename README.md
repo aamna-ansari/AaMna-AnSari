@@ -32,11 +32,11 @@
           <td align='center' width="190">
              <img src="https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png" alt="Javascript" width="100px" height="100px">
          </td>
+         </tr> 
+    <tr>
          <td align='center'>
              <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.png" alt="Bootstrap5" width="150px" height="100px">
          </td>
-     </tr> 
-    <tr>
      <td align='center'>
              <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" alt="GitHub" width="150px" height="100px">
          </td>
