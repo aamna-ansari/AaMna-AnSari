@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&multiline=true&width=710&height=35&lines=Welcome+to+my+GitHub+Profile+👩‍💻;"alt="Welcome to my GitHub Profile" />
 </p>
 <h3 align="center">I'm Student and Front-End Developer :sunglasses:</h3>
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="250" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
 - 📚 I’m currently learning **Web development.**
