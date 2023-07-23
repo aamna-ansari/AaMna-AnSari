@@ -10,8 +10,8 @@
 - 🔭 I’m currently working on **Frontend Development.**
   - Front-end development using **HTML, Javascript, CSS, Bootstrap.**
 - 🎓 I graduated from **Government College University Faisalabad.**
-- 👯 I want to collaborate with other content creators and developers.
-- 💻 I love **writing code and learning** anything about it.
+- 👯 I want to collaborate with other **content creators and developers.**
+- 💻 I love writing code and learning anything about it.
 - 🥅 **2023 Goals:**
      -  Complete MERN Stack
 - 📫 How to reach me **[Email](aamnansari29@gmail.com)**
