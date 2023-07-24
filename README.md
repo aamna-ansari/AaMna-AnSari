@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AaMna AnSari.</h1>
+<h1 align="center">Hi, I'm AaMna AnSari.</h1>
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&multiline=true&width=710&height=35&lines=Welcome+to+my+GitHub+Profile+👩‍💻;"alt="Welcome to my GitHub Profile" />
 </p>
