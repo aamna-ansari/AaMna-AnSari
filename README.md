@@ -8,7 +8,7 @@
 
 - 📚 I’m currently learning **Web development.**
 - 🔭 I’m currently working on **Frontend Development.**
-  - Front-end development using **HTML, Javascript, CSS, Bootstrap.**
+  - Front-end development using **HTML, CSS, Javascript, Bootstrap.**
 - 🎓 I graduated from **Government College University Faisalabad.**
 - 👯 I want to collaborate with other **content creators and developers.**
 - 💻 I love writing code and learning anything about it.
