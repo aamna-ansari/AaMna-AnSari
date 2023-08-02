@@ -49,10 +49,10 @@
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=aamna29&show_icons=true&theme=dracula&include_all_commits=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=AaMna-AnSari&show_icons=true&theme=dracula&include_all_commits=true" />
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaMna-AnSari&theme=dracula&show_icons=true" />
 </p>
 <p align="center">
-  <img width="80%"   src="https://github-readme-streak-stats.herokuapp.com/?user=aamna29&show_icons=true&locale=en&layout=demo&theme=dracula&hide_border=true" />
+  <img width="80%"   src="https://github-readme-streak-stats.herokuapp.com/?user=AaMna-AnSari&show_icons=true&locale=en&layout=demo&theme=dracula&hide_border=true" />
 </p>
  
