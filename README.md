@@ -13,7 +13,7 @@
 - 💻 I love writing code and learning anything about it.
 - 🥅 **2023 Goals:**
      -  Complete MERN Stack
-- 📫 How to reach me **[Email:aamnansari29@gmail.com](aamnansari29@gmail.com)**
+- 📫 How to reach me **[Email](aamnansari29@gmail.com)**
 
 <p align="Left"> <img src="https://komarev.com/ghpvc/?username=AaMna-AnSari&label=Profile%20views&color=0e75b6&style=flat" alt="AaMna-AnSari" /> </p>
 
