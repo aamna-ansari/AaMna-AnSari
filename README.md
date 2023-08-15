@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **Frontend Development.**
   - Front-end development using **HTML, CSS, JavaScript, Bootstrap.**
 - 🎓 I graduated from **Government College University Faisalabad.**
-- 👯 I'm looking to collaborate on **Development Techniques.**
+- 👯 I'm looking to collaborate on **Development Techniques**
 - 💻 I love writing code and learning anything about it.
 - 🥅 **2023 Goals:**
      -  Complete MERN Stack
