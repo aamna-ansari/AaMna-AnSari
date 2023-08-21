@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="250" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
-- 📚 I’m currently learning **Web development**
+- 📚 I’m currently learning **Web development.**
 - 🔭 I’m currently working on **Frontend Development.**
   - Front-end development using **HTML, CSS, JavaScript, Bootstrap.**
 - 🎓 I graduated from **Government College University Faisalabad.**
