@@ -1,4 +1,4 @@
-<h1 align="center">Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I'm AaMna AnSari</h1>
+<h1 align="center">Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I'm AaMna AnSari.</h1>
 
 <p align='center'> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=400&pause=1000&color=000000&width=450&height=40&lines=I'm+Student,+Teacher,+QA_Tester+and+Developer" alt="Typing SVG" /></a> </p>
 
