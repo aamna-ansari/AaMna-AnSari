@@ -12,7 +12,7 @@
 - 👯 I'm looking to collaborate on **Development Techniques.**
 - 💻 I love writing code and learning anything about it.
 - 🥅 **2023 Goals**
-     -  Complete MERN Stack
+     -  Complete MERN Stack.
 - 📫 How to reach me **<a href="mailto:aamnansari29@gmail.com">Email</a>**
 
 
