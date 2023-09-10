@@ -16,7 +16,7 @@
 - 📫 How to reach me **<a href="mailto:aamnansari29@gmail.com">Email</a>**
 
 
-<h2><i>🛠️ Languages & Tools</i></h2>
+<h2><i>🛠️ Languages and Tools</i></h2>
 
 <table width="100"align='center' >
      <tr>
