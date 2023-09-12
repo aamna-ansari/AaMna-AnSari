@@ -66,11 +66,7 @@
           <img height="180em" width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AaMna-AnSari&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
           <img height="180em" width="42%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AaMna-AnSari&layout=compact&langs_count=8&theme=dracula"/>
      </a>
-   <p >
-     <img width = "60%"
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=AaMna-AnSari&theme=dracula" width="48%" >
-    
-</p>
+   
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AaMna-AnSari&label=Profile%20views&color=FF6E96&style=flat" alt="AaMna-AnSari" /> </p>
  
