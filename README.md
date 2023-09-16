@@ -2,7 +2,7 @@
 
 <p align='center'> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=400&pause=1000&color=000000&width=450&height=40&lines=I'm+Student,+Teacher,+QA_Tester+and+Developer" alt="Typing SVG" /></a> </p>
 
-<img align="right" alt="Coding" width="280" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="270" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
 - 📚 I’m currently learning **Web development.**
