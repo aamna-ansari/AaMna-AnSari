@@ -1,9 +1,9 @@
+<!-- 
 <h1 align="center">Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">,I'm AaMna AnSari.</h1>
 
 <p align='center'> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=400&pause=1000&color=000000&width=450&height=40&lines=I'm+Student,+Teacher,+QA_Tester+and+Developer" alt="Typing SVG" /></a> </p>
 
 <img align="right" alt="Coding" width="280" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-
 
 - 📚 I’m currently learning **Web development.**
 - 🔭 I’m currently working on **Frontend Development.**
@@ -69,8 +69,5 @@
      <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=AaMna-AnSari&show_icons=true&locale=en&layout=demo&theme=dracula&hide_border=true"/>
 </p>
 </p>
-
-   
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=AaMna-AnSari&label=Profile%20views&color=FF6E96&style=flat" alt="AaMna-AnSari" /> </p>
+-->
  
