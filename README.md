@@ -46,7 +46,7 @@ I'm **AaMna AnSari**, a Computer Science graduate from Government College Univer
          </tr>
 </table>
 
-<h2><i>⚙️ GitHub Analytics</i></h2>
+<h2><img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="45px"><i> GitHub Analytics</i> </h2>
 
 <p align="center">
     <a href="https://github.com/AaMna-AnSari">
