@@ -150,8 +150,8 @@ I'm **AaMna AnSari**, a Computer Science graduate from Government College Univer
 
 <p align="center">
     <a href="https://github.com/AaMna-AnSari">
-          <img height="200em" width="42%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AaMna-AnSari&show_icons=true&theme=radical&include_all_commits=true&count_private=true&"/> 
-          <img height="210em" width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AaMna-AnSari&layout=compact&langs_count=8&theme=radical&"/>
+          <img height="180em"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AaMna-AnSari&show_icons=true&theme=radical&include_all_commits=true&count_private=true&"/> 
+          <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AaMna-AnSari&layout=compact&langs_count=8&theme=radical&"/>
      </a> 
 <!--      <img width="82%" src="https://github-readme-streak-stats.herokuapp.com/?user=AaMna-AnSari&show_icons=true&locale=en&layout=demo&theme=dracula&hide_border=true"/> -->
      <img width="82%" src="https://github-readme-streak-stats.herokuapp.com/?user=AaMna-AnSari&show_icons=true&locale=en&layout=demo&theme=radical&"/>
