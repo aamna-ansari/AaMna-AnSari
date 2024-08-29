@@ -2,7 +2,7 @@
 
 <!-- # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
 
-I'm **AaMna_AnSari**, a Computer Science graduate from Government College University Faisalabad. I'm a passionate tech enthusiast who loves diving into JavaScript and problem-solving. Always looking for new challenges, I thrive on learning about and experimenting with the latest technologies. I'm dedicated to contributing to open-source projects and enjoy crafting innovative products that make a real difference.
+I'm **AaMna AnSari**, a Computer Science graduate from Government College University Faisalabad. I'm a passionate tech enthusiast who loves diving into JavaScript and problem-solving. Always looking for new challenges, I thrive on learning about and experimenting with the latest technologies. I'm dedicated to contributing to open-source projects and enjoy crafting innovative products that make a real difference.
 
 <!--[![Twitter Badge](https://img.shields.io/badge/-@sakshamtaneja-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://twitter.com/sakshamtaneja00) -->
 <div align="center">
