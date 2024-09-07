@@ -93,10 +93,9 @@ I'm **AaMna AnSari**, a Computer Science graduate from Government College Univer
       </a>
       <br>Git
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="48" height="48" />
-      </a>
-      <br>GitHub
+     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="50" />
+      <br>Github
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" />
