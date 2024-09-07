@@ -9,7 +9,7 @@ I'm **AaMna AnSari**, a Computer Science graduate from Government College Univer
 
 [![page views](https://komarev.com/ghpvc/?username=aamna-ansari&color=ff3377)](https://github.com/aamna-ansari/)
 [![Linkedin Badge](https://img.shields.io/badge/-aamnansari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aamnansari/)](https://www.linkedin.com/in/aamnansari/)
-[![Medium Badge](https://img.shields.io/badge/-@aamnansari-6f1727?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aamnansari)](https://medium.com/@aamnansari/)
+<!--[![Medium Badge](https://img.shields.io/badge/-@aamnansari-6f1727?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aamnansari)](https://medium.com/@aamnansari/) -->
 [![GitHub followers](https://img.shields.io/github/followers/aamna-ansari?label=Follow&style=social)](https://github.com/aamna-ansari/)
 [![Gmail Badge](https://img.shields.io/badge/-aamnansari29@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aamnansari29@gmail.com)](mailto:aamnansari29@gmail.com)
 [![LeetCode Solved Problems](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Faamna_ansari&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/aamna_ansari/)
