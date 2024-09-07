@@ -1,15 +1,13 @@
 <h2 align="center"> Hi &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
 
-<!-- # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
+<!-- # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px"> -->
 
 I'm **AaMna AnSari**, a Computer Science graduate from Government College University Faisalabad. I'm a passionate tech enthusiast who loves diving into JavaScript and problem-solving. Always looking for new challenges, I thrive on learning about and experimenting with the latest technologies. I'm dedicated to contributing to open-source projects and enjoy crafting innovative products that make a real difference.
 
-<!--[![Twitter Badge](https://img.shields.io/badge/-@sakshamtaneja-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://twitter.com/sakshamtaneja00) -->
 <div align="center">
 
 [![page views](https://komarev.com/ghpvc/?username=aamna-ansari&color=ff3377)](https://github.com/aamna-ansari/)
 [![Linkedin Badge](https://img.shields.io/badge/-aamnansari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aamnansari/)](https://www.linkedin.com/in/aamnansari/)
-<!--[![Medium Badge](https://img.shields.io/badge/-@aamnansari-6f1727?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aamnansari)](https://medium.com/@aamnansari/) -->
 [![GitHub followers](https://img.shields.io/github/followers/aamna-ansari?label=Follow&style=social)](https://github.com/aamna-ansari/)
 [![Gmail Badge](https://img.shields.io/badge/-aamnansari29@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aamnansari29@gmail.com)](mailto:aamnansari29@gmail.com)
 [![LeetCode Solved Problems](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Faamna_ansari&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/aamna_ansari/)
