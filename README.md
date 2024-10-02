@@ -1,5 +1,6 @@
 <h2 align="center"> Hi &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
 
+
 <!-- # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px"> -->
 
 I'm **AaMna AnSari**, a Computer Science graduate from Government College University Faisalabad. I'm a passionate tech enthusiast who loves diving into JavaScript and problem-solving. Always looking for new challenges, I thrive on learning about and experimenting with the latest technologies. I'm dedicated to contributing to open-source projects and enjoy crafting innovative products that make a real difference.
@@ -142,7 +143,8 @@ I'm **AaMna AnSari**, a Computer Science graduate from Government College Univer
 
 
 <!-- <h1><img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="45px"> GitHub Analytics </h1> --> 
-<h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">GitHub Analytics </h1>
+<!--<h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">GitHub Analytics </h1> -->
+<h1><img src="https://media3.giphy.com/media/ZjtF698DrjHGcntUCB/giphy.gif" width="50px">GitHub Analytics </h1>
 
 
 <p align="center">
