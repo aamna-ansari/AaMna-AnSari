@@ -157,4 +157,6 @@ I'm **AaMna AnSari**, a Computer Science graduate from Government College Univer
 </p>
 </p>
 
+![AaMna AnSari's Graph](https://github-readme-activity-graph.vercel.app/graph?username=aamna-ansari&custom_title=Al%20AaMnaAnSari's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=ff2079&line=ff2079&point=fff400&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
  
