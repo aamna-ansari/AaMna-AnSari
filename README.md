@@ -21,7 +21,7 @@ I'm **AaMna AnSari**, a Computer Science graduate from Government College Univer
 <!-- <h1 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif" width="60px"> About </h1> -->
   
 - 📘  𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: Web Development
-- 🖥️ 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗙𝗼𝗰𝘂𝘀: Frontend Development
+- 🖥️ 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗙𝗼𝗰𝘂𝘀: Backend Development
 - 👨‍🏫 𝗥𝗼𝗹𝗲: Moderator | Trainer at <a href="https://www.icode.guru/join" target="_blank">iCodeGuru</a>
 - 🧠 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗔𝗯𝗼𝘂𝘁: Solving complex Data Structures and Algorithms
 - 🎓 𝗩𝗼𝗹𝘂𝗻𝘁𝗲𝗲𝗿: Teaches Python and DSA at <a href="https://www.icode.guru/" target="_blank">iCodeGuru</a>
