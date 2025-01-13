@@ -1,5 +1,5 @@
 <!-- <h2 align="center"> Hi &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2> -->
-<h2 align="center"> &lt;𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍/&gt;! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="31px"> </h2>
+<h2 align="center"> &lt;𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍/&gt;! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px"> </h2>
 
 
 I'm **AaMna AnSari**, a Computer Science graduate from Government College University Faisalabad. I'm a passionate tech enthusiast who loves diving into JavaScript and problem-solving. Always looking for new challenges, I thrive on learning about and experimenting with the latest technologies. I'm dedicated to contributing to open-source projects and enjoy crafting innovative products that make a real difference.
@@ -153,7 +153,7 @@ I'm **AaMna AnSari**, a Computer Science graduate from Government College Univer
           <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AaMna-AnSari&layout=compact&langs_count=8&theme=radical&"/>
      </a> 
 <!--      <img width="82%" src="https://github-readme-streak-stats.herokuapp.com/?user=AaMna-AnSari&show_icons=true&locale=en&layout=demo&theme=dracula&hide_border=true"/> -->
-     <img width="83%" src="https://github-readme-streak-stats.herokuapp.com/?user=AaMna-AnSari&show_icons=true&locale=en&layout=demo&theme=radical&"/>
+<!--      <img width="83%" src="https://github-readme-streak-stats.herokuapp.com/?user=AaMna-AnSari&show_icons=true&locale=en&layout=demo&theme=radical&"/> -->
 </p>
 </p>
 
