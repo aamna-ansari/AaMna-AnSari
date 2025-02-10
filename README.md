@@ -82,13 +82,13 @@ I'm **AaMna AnSari**, a Computer Science graduate from Government College Univer
       </a>
       <br>NodeJS
     </td>
-       <td align="center" width="96">
+  </tr>
+     <tr>
+          <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="48" height="48" />
       </a>
       <br>Express
     </td>
-  </tr>
-     <tr>
            <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="48" height="48" />
       </a>
@@ -129,18 +129,18 @@ I'm **AaMna AnSari**, a Computer Science graduate from Government College Univer
       </a>
       <br>Jupyter
     </td>
-          <td align="center" width="96">
+     </tr>
+  <tr>
+       <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://github.com/gilbarbara/logos/blob/main/logos/streamlit.svg" alt="streamlit" width="48" height="48" />
       </a>
       <br>Streamlit
     </td>
-          <td align="center" width="96">
+       <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" />
       </a>
       <br>VS Code
     </td>
-     </tr>
-  <tr>
        <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" />
       </a>
