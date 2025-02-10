@@ -52,10 +52,25 @@ I'm **AaMna AnSari**, a Computer Science graduate from Government College Univer
       </a>
       <br>Bootstrap
     </td>
+       <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass-lang"  width="48" height="48"  />
+      </a>
+      <br>Sass
+    </td>
+       <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"  width="48" height="48"  />
+      </a>
+      <br>Tailwind
+    </td>
     <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  alt="JavaScript"  width="48" height="48" />
       </a>
       <br>JavaScript
+    </td>
+       <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"  alt="JavaScript"  width="48" height="48" />
+      </a>
+      <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg"  alt="Python"  width="48" height="48" />
@@ -72,20 +87,25 @@ I'm **AaMna AnSari**, a Computer Science graduate from Government College Univer
       </a>
       <br>NodeJS
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" />
+       <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="48" height="48" />
       </a>
-      <br>Figma
+      <br>Express
+    </td>
+       <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="48" height="48" />
+      </a>
+      <br>MongoDB
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="48" height="48" />
       </a>
       <br>Firebase
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="48" height="48" />
+       <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://github.com/gilbarbara/logos/blob/main/logos/streamlit.svg" alt="streamlit" width="48" height="48" />
       </a>
-      <br>Netlify
+      <br>Streamlit
     </td>
   </tr>
   <tr>
@@ -103,10 +123,20 @@ I'm **AaMna AnSari**, a Computer Science graduate from Government College Univer
       </a>
       <br>VS Code
     </td>
+       <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" />
+      </a>
+      <br>Figma
+    </td>
     <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="48" height="48" />
       </a>
       <br>Vercel
+    </td>
+       <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="48" height="48" />
+      </a>
+      <br>Netlify
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/surgesh/surgesh-icon.svg" alt="Surge" width="48" height="48" />
