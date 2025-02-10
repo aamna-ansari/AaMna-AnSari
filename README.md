@@ -87,13 +87,13 @@ I'm **AaMna AnSari**, a Computer Science graduate from Government College Univer
       </a>
       <br>Express
     </td>
-       <td align="center" width="96">
+  </tr>
+     <tr>
+           <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="48" height="48" />
       </a>
       <br>MongoDB
     </td>
-  </tr>
-     <tr>
           <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://github.com/uiwjs/file-icons/blob/master/icon/ejs.svg" alt="EJS" width="48" height="48" />
       </a>
@@ -103,6 +103,16 @@ I'm **AaMna AnSari**, a Computer Science graduate from Government College Univer
       <a href="#macropower-tech"><img src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-nextjs/public/logos/shadcnui.svg" alt="Shadcn" width="48" height="48" />
       </a>
       <br>Shadcn
+    </td>
+          <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" />
+      </a>
+      <br>Figma
+    </td>
+       <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="48" height="48" />
+      </a>
+      <br>Firebase
     </td>
           <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-nextjs/public/logos/chakra-ui.svg" alt="Chakra UI" width="48" height="48" />
@@ -129,7 +139,9 @@ I'm **AaMna AnSari**, a Computer Science graduate from Government College Univer
       </a>
       <br>VS Code
     </td>
-          <td align="center" width="96">
+     </tr>
+  <tr>
+       <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" />
       </a>
       <br>Git
@@ -138,18 +150,6 @@ I'm **AaMna AnSari**, a Computer Science graduate from Government College Univer
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="50" />
       <br>Github
     </td>
-       <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" />
-      </a>
-      <br>Figma
-    </td>
-       <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="48" height="48" />
-      </a>
-      <br>Firebase
-    </td>
-     </tr>
-  <tr>
        <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="48" height="48" />
       </a>
