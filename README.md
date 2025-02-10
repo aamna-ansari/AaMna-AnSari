@@ -115,6 +115,11 @@ I'm **AaMna AnSari**, a Computer Science graduate from Government College Univer
       <br>Python
     </td>
           <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="48" height="48" />
+      </a>
+      <br>Jupyter
+    </td>
+          <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://github.com/gilbarbara/logos/blob/main/logos/streamlit.svg" alt="streamlit" width="48" height="48" />
       </a>
       <br>Streamlit
@@ -143,13 +148,13 @@ I'm **AaMna AnSari**, a Computer Science graduate from Government College Univer
       </a>
       <br>Firebase
     </td>
-    <td align="center" width="96">
+     </tr>
+  <tr>
+       <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="48" height="48" />
       </a>
       <br>Vercel
     </td>
-     </tr>
-  <tr>
           <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="48" height="48" />
       </a>
