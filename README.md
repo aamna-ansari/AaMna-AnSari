@@ -160,11 +160,6 @@ I'm **AaMna AnSari**, a Computer Science graduate from Government College Univer
       </a>
       <br>Netlify
     </td>
-         <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="Discord" width="48" height="48" />
-      </a>
-      <br>Discord
-    </td>
     <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" width="48" height="48" />
       </a>
