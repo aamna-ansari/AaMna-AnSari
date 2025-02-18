@@ -33,7 +33,7 @@ I'm **AaMna AnSari**, a Computer Science graduate from Government College Univer
 --- 
 <h1 align="left"> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35px"> Favorite Tech</h1>
 
-> Tools, languages, and other things I like working with
+> Tools, languages, and other things I like working with.
 
 <table>
   <tr>
