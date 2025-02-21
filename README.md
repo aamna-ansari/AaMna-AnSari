@@ -25,7 +25,7 @@ I'm **AaMna AnSari**, a Computer Science graduate from Government College Univer
 - 👨‍🏫 𝗥𝗼𝗹𝗲: Moderator | Trainer at <a href="https://www.icode.guru/join" target="_blank">iCodeGuru</a>
 - 🧠 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗔𝗯𝗼𝘂𝘁: Solving complex Data Structures and Algorithms
 - 🎓 𝗩𝗼𝗹𝘂𝗻𝘁𝗲𝗲𝗿: Teaches Python and DSA at <a href="https://www.icode.guru/" target="_blank">iCodeGuru</a>
-- 🥅 2024 𝗚𝗼𝗮𝗹𝘀: Elevating Open Source Contributions
+- 🥅 2025 𝗚𝗼𝗮𝗹𝘀: Elevating Open Source Contributions
 - 🚀 𝗔𝗰𝘁𝗶𝘃𝗲 𝗜𝗻: Participating in coding competitions & hackathons
 - 🌍 𝗣𝗵𝗗 𝗮𝘀𝗽𝗶𝗿𝗮𝘁𝗶𝗼𝗻𝘀: Advancing in tech in the US
 - 📞 𝗖𝗼𝗻𝘁𝗮𝗰𝘁: Don't hesitate to reach out & let's connect and start a conversation.
