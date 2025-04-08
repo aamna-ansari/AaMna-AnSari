@@ -17,7 +17,7 @@ I'm **AaMna AnSari**, a Computer Science graduate from Government College Univer
 ---
      
 <!-- <h1 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="50px"> About </h1> -->
- <h1 align="left"> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="35px"> About </h1> 
+ <h1 align="left"> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34px"> About </h1> 
 <!-- <h1 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif" width="60px"> About </h1> -->
   
 - 📘  𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: Web Development
