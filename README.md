@@ -113,11 +113,21 @@ I'm **AaMna AnSari**, a Computer Science graduate from Government College Univer
       </a>
       <br>Firebase
     </td>
-          <td align="center" width="96">
+<!--           <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-nextjs/public/logos/chakra-ui.svg" alt="Chakra UI" width="48" height="48" />
       </a>
       <br>Chakra UI
+    </td> -->
+          <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="48" height="48" />
+      </a>
+      <br>Trello
     </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" />
+      </a>
+      <br>Postman
+    </td> 
           <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg"  alt="Python"  width="48" height="48" />
       </a>
@@ -164,16 +174,6 @@ I'm **AaMna AnSari**, a Computer Science graduate from Government College Univer
       </a>
       <br>Slack
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="48" height="48" />
-      </a>
-      <br>Trello
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" />
-      </a>
-      <br>Postman
-    </td> 
      </tr>
 </table>
 
