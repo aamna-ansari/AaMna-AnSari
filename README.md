@@ -98,6 +98,11 @@ I'm **AaMna AnSari**, a Computer Science graduate from Government College Univer
       </a>
       <br>EJS
     </td>
+          <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="48" height="48" />
+      </a>
+      <br>Firebase
+    </td>
 <!--           <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-nextjs/public/logos/shadcnui.svg" alt="Shadcn" width="48" height="48" />
       </a>
