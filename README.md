@@ -181,7 +181,7 @@ I'm **AaMna AnSari**, a Computer Science graduate from Government College Univer
 
 <!-- <h1><img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="45px"> GitHub Analytics </h1> --> 
 <!--<h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">GitHub Analytics </h1> -->
-<h1><img src="https://media3.giphy.com/media/ZjtF698DrjHGcntUCB/giphy.gif" width="50px">GitHub Analytics </h1>
+<h1><img src="https://media3.giphy.com/media/ZjtF698DrjHGcntUCB/giphy.gif" width="50px">GitHub Analytics</h1>
 
 
 <p align="center">
