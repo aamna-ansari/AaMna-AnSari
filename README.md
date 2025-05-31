@@ -6,11 +6,11 @@ I'm **Amna BB**, a Computer Science graduate from Government College University 
 
 <div align="center">
 
-[![page views](https://komarev.com/ghpvc/?username=theamnabb&color=ff3377)](https://github.com/theamnabb/)
+<!-- [![page views](https://komarev.com/ghpvc/?username=theamnabb&color=ff3377)](https://github.com/theamnabb/) -->
 [![GitHub followers](https://img.shields.io/github/followers/theamnabb?label=Follow&style=social)](https://github.com/theamnabb/) 
-[![Linkedin Badge](https://img.shields.io/badge/-aamnansari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aamnansari/)](https://www.linkedin.com/in/aamnansari/)
-[![Gmail Badge](https://img.shields.io/badge/-theaamnansari@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:theaamnansari@gmail.com)](mailto:theaamnansari@gmail.com)
-[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-black?style=flat-square&logo=leetcode&logoColor=yellow&&labelColor=black&color=%23ffa116)](https://leetcode.com/u/aamnansari/)
+[![Linkedin Badge](https://img.shields.io/badge/-theamnabb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/theamnabb/)](https://www.linkedin.com/in/theamnabb/)
+[![Gmail Badge](https://img.shields.io/badge/-theamnabb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:theamnabb@gmail.com)](mailto:theamnabb@gmail.com)
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-black?style=flat-square&logo=leetcode&logoColor=yellow&&labelColor=black&color=%23ffa116)](https://leetcode.com/u/amnabb)
 <!--[![LeetCode Solved Problems](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Faamnansari&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/aamnansari/) -->
 
 </div>
