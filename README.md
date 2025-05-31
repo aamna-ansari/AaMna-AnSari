@@ -6,8 +6,8 @@ I'm **Amna BB**, a Computer Science graduate from Government College University 
 
 <div align="center">
 
-[![page views](https://komarev.com/ghpvc/?username=aamna-ansari&color=ff3377)](https://github.com/aamna-ansari/)
-[![GitHub followers](https://img.shields.io/github/followers/aamna-ansari?label=Follow&style=social)](https://github.com/aamna-ansari/) 
+[![page views](https://komarev.com/ghpvc/?username=theamnabb&color=ff3377)](https://github.com/theamnabb/)
+[![GitHub followers](https://img.shields.io/github/followers/theamnabb?label=Follow&style=social)](https://github.com/theamnabb/) 
 [![Linkedin Badge](https://img.shields.io/badge/-aamnansari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aamnansari/)](https://www.linkedin.com/in/aamnansari/)
 [![Gmail Badge](https://img.shields.io/badge/-theaamnansari@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:theaamnansari@gmail.com)](mailto:theaamnansari@gmail.com)
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-black?style=flat-square&logo=leetcode&logoColor=yellow&&labelColor=black&color=%23ffa116)](https://leetcode.com/u/aamnansari/)
