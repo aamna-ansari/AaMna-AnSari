@@ -185,7 +185,7 @@ I'm **Amna BB**, a Computer Science graduate from Government College University 
 
 
 <p align="center">
-    <a href="https://github.com/AaMna-AnSari">
+    <a href="https://github.com/theamnabb">
           <img height="180em"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=theamnabb&show_icons=true&theme=radical&include_all_commits=true&count_private=true&"/> 
           <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=theamnabb&layout=compact&langs_count=8&theme=radical&"/>
      </a> 
