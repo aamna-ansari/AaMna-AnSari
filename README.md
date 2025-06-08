@@ -7,7 +7,7 @@ I'm **Amna BB**, a Computer Science graduate from Government College University 
 <div align="center">
 
 <!-- [![page views](https://komarev.com/ghpvc/?username=theamnabb&color=ff3377)](https://github.com/theamnabb/) -->
-[![GitHub followers](https://img.shields.io/github/followers/theamnabb?label=Follow&style=social)](https://github.com/theamnabb/) 
+<!--[![GitHub followers](https://img.shields.io/github/followers/theamnabb?label=Follow&style=social)](https://github.com/theamnabb/) --> 
 [![Linkedin Badge](https://img.shields.io/badge/-theamnabb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/theamnabb/)](https://www.linkedin.com/in/theamnabb/)
 [![Gmail Badge](https://img.shields.io/badge/-theamnabb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:theamnabb@gmail.com)](mailto:theamnabb@gmail.com)
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-black?style=flat-square&logo=leetcode&logoColor=yellow&&labelColor=black&color=%23ffa116)](https://leetcode.com/u/amnabb)
