@@ -2,7 +2,7 @@
 <h3 align="center"> &lt;𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍/&gt;! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="34px"> </h3>
 
 
-I'm **Amna BB**, a Computer Science graduate from Government College University Faisalabad. I'm a passionate tech enthusiast who loves diving into JavaScript and problem-solving. Always looking for new challenges, I thrive on learning about and experimenting with the latest technologies. I'm dedicated to contributing to open-source projects and enjoy crafting innovative products that make a real difference.
+I'm **Amna BiBi**, a Computer Science graduate from Government College University Faisalabad. I'm a passionate tech enthusiast who loves diving into JavaScript and problem-solving. Always looking for new challenges, I thrive on learning about and experimenting with the latest technologies. I'm dedicated to contributing to open-source projects and enjoy crafting innovative products that make a real difference.
 
 <div align="center">
 
